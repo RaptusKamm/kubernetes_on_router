@@ -27,7 +27,7 @@ Cloud
         - Je nach Anwendungszweck bringt dieser Cloud-Typ verschiedene Vor- und Nachteile mit sich. Im generellen werden bei dieser Art die Vorteile der Privat- und Public-Cloud           kombiniert und können zusammen genutzt werden.
 #
 
-- CaaS (Cloud as a Service)
+- CaaS (Cloud as a Service) (Pyramide starten unten mit  1. IaaS, 2. PaaS, 3. SaaS)
   1. Iaas (Infrastructure as a Service)
     -	Microsoft Azure
     -	Amazon Web Service
