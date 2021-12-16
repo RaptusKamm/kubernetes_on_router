@@ -28,20 +28,19 @@ Cloud
 #
 
 - CaaS (Cloud as a Service) (Pyramide starten unten mit  1. IaaS, 2. PaaS, 3. SaaS)
-
-1. Iaas (Infrastructure as a Service)
-      -	Microsoft Azure
-      -	Amazon Web Service
-      -	Google Cloud
-2. PaaS (Platform as a Service)
-    -	OpenShift
-    -	OpenTelekom Cloud
-    -	IBN Cloud 
-3. SaaS (Software as a Service)
-    -	Drop Box
-    -	Google G Suit
-    -	Box
-
+ 
+  - SaaS (Software as a Service)
+      -	Drop Box
+      -	Google G Suit
+      -	Box
+   - PaaS (Platform as a Service)
+      -	OpenShift
+      -	OpenTelekom Cloud
+      -	IBN Cloud 
+   - Iaas (Infrastructure as a Service)
+        -	Microsoft Azure
+        -	Amazon Web Service
+        -	Google Cloud
 -	Kubernetes
   -	Architektur
  ![image](https://user-images.githubusercontent.com/93722657/146398330-2150cce0-e500-40f9-8706-5d595c0fabbe.png)
